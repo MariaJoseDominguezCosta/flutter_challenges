@@ -88,7 +88,7 @@ class ContactInfo extends StatelessWidget {
                       size: 32,
                     ), // LinkedIn icon
                     onPressed: () =>
-                        _launchURL('https://www.linkedin.com/in/eduardovazquezh/'),
+                        _launchURL('https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-dom%C3%ADnguez-costa-6a52502a9/'),
                     tooltip: 'LinkedIn',
                   ),
                 ],
